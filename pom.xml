@@ -63,11 +63,5 @@
 			<url>http://192.168.20.186:8081/#admin/repository/maven-bhavya</url>
 		</repository>
 	</distributionManagement>
-	<servers>
-		<server>
-			<id>maven-bhavya</id>
-			<username>admin</username>
-			<password>admin</password>
-		</server>
-	</servers>
+
 </project>

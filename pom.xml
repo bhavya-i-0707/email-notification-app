@@ -60,7 +60,7 @@
 	<distributionManagement>
 		<repository>
 			<id>maven-bhavya</id>
-			<url>http://192.168.20.186:8081//repository/maven-bhavya</url>
+			<url>http://192.168.20.186:8081/repository/maven-bhavya</url>
 		</repository>
 	</distributionManagement>
 </project>
